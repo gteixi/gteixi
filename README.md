@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gemma Teixidó</h1>
 <h3 align="center">FullStack Developer always in the process of learning and improving! 🤓👩‍💻</h3>
 
-- 🌱 I’m currently learning **VUE, Flutter and React Native**
+- 🌱 I’m currently learning **VUE and React Native**
 
 - 💡 I feel comfortable with **JavaScript | TypeScript | ReactJS | Redux | GIT | HTML | Jest | NodeJS | MongoDB**
 

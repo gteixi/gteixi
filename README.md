@@ -24,12 +24,8 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<span>My Linkedin  </span> <a href="https://linkedin.com/in/gemma-teixido-sanchez" target="_blank"><img src="https://www.marketing-branding.com/wp-content/uploads/2014/02/linkedin-logo-marketingbuilding.png" alt="Linkedin logo" height="30" width="30" /></a> 
-<br>
-<br>
-<span>My Medium  </span> <a href="https://medium.com/@gteixi" target="_blank"><img src="https://user-images.githubusercontent.com/57844775/120111160-26b82680-c171-11eb-9796-de5e46621eca.png" alt="Medium logo" height="30" width="30" /></a>
-</p>
+<a href="https://linkedin.com/in/gemma-teixido-sanchez" target="_blank"><img src="https://www.marketing-branding.com/wp-content/uploads/2014/02/linkedin-logo-marketingbuilding.png" alt="Linkedin logo" height="30" width="30" /></a> 
+<a href="https://medium.com/@gteixi" target="_blank"><img src="https://user-images.githubusercontent.com/57844775/120111160-26b82680-c171-11eb-9796-de5e46621eca.png" alt="Medium logo" height="30" width="30" /></a> 
 
 <br>
 

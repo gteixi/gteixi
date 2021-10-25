@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gemma Teixidó</h1>
+<h1 align="center">Hi 👋, I'm Gemma </h1>
 <h3 align="center">FrontEnd Developer always in the process of learning and improving! 👩‍💻</h3>
 
 

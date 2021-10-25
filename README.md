@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gemma Teixidó</h1>
-<h3 align="center">FullStack Developer always in the process of learning and improving! 👩‍💻</h3>
+<h3 align="center">FrontEnd Developer always in the process of learning and improving! 👩‍💻</h3>
 
 
 💡 Frontend: HTML | CSS | Javascript | Typescript | React | Redux | Vue | Vuex | Jest | SASS | BEM 

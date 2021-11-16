@@ -3,7 +3,7 @@
 
 <br>
 
-💡 Frontend: HTML | CSS | Javascript | Typescript | React | Redux | Vue | Vuex | Jest | SASS | BEM 
+💡 Frontend: HTML | CSS | Javascript | Typescript | React | React-Native| Redux | Vue | Vuex | Jest | SASS | BEM 
 
 💡 Backend: NodeJS | ExpressJS | MongoDB | Mongoose | PostMan | Passport | API Restful
 

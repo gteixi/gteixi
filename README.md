@@ -1,23 +1,17 @@
 <h1 align="center"> Hi 👋, I'm Gemma </h1>
-<h3 align="center">FullStack Developer always in the process of learning and improving! 👩‍💻</h3>
+<h3 align="center">FrontEnd Developer always in the process of learning and improving! 👩‍💻</h3>
 
 <br>
 
-💡 Frontend: HTML | CSS | Javascript | Typescript | React | React-Native | Redux | Jest | SASS | BEM 
+💡 FRONTEND: Javascript | Typescript | SASS | BEM | Storybook | ReactJS | Redux | MobX | Jest | Unit Testing
 
-💡 Backend: NodeJS | ExpressJS | MongoDB | Mongoose | PostMan | Passport | API Restful
+💡 BACKEND: NodeJS | ExpressJS | MongoDB | Mongoose | AWS | PostMan | Passport | JWT | API Restful
 
-💡 Other technologies: Git | GitHub | SonarQube | EsLint | Trello | Slack | Excalidraw | Figma
+💡 TOOLS: SonarQube | EsLint | Trello | Slack | Excalidraw | Figma | SCRUM
 
 <br>
-
-- 👨‍💻 All of my projects are available at [https://github.com/gteixi](https://github.com/gteixi)
 
 - 📝 I write articles on [https://medium.com/@gteixi](https://medium.com/@gteixi)
-
-- 💬 Ask me about **SOLID Principals, JavaScript Mental Models, ReactJS, Redux**
-
-- 📫 How to reach me **gemmateixido25@gmail.com**
 
 - ⚡ Fun fact **Before I got into code I was very attached to music, I played 8 years of violin and then I became a singer!**
 

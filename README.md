@@ -42,4 +42,4 @@ Bilingual landing page (Catalan & Spanish) for the Prep Pal product — presenti
 I'm open to opportunities where I can build impactful products end-to-end.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gemma-teixido/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://gteixi.medium.com/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat)](https://gteixi.medium.com/)

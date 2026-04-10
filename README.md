@@ -17,12 +17,6 @@ A SaaS platform that helps restaurant kitchens track stock, log production batch
 
 **Stack:** Next.js 16 (App Router) &middot; TypeScript &middot; React 19 &middot; Tailwind CSS v4 &middot; Supabase (Postgres + Realtime) &middot; Vercel
 
-### [Prep Pal Landing](https://github.com/gteixi/preppal-web) — Marketing Site
-
-Bilingual landing page (Catalan & Spanish) for the Prep Pal product — presenting features, pricing, and a contact form for restaurant owners.
-
-**Stack:** Astro v6 &middot; Tailwind CSS v4 &middot; i18n (ca/es) &middot; Vercel
-
 ## What Sets Me Apart
 
 - **Full product ownership** — I handle everything: product design, database architecture, frontend, backend, deployment, and iteration based on real user feedback.

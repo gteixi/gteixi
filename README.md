@@ -2,7 +2,7 @@
 
 I'm a software developer building real-world products for the food industry. I design, build, and ship full-stack applications from idea to production.
 
-## Kitchen Production Management SaaS
+## Kitchen Stock Management SaaS
 
 [**github.com/gteixi/projectg**](https://github.com/gteixi/projectg)
 
@@ -27,7 +27,7 @@ A SaaS platform that helps professional kitchens track daily stock, log producti
 
 ---
 
-### Landing Page
+## Landing Page
 
 [**github.com/gteixi/preppal-web**](https://github.com/gteixi/preppal-web)
 
@@ -39,6 +39,7 @@ Bilingual marketing site (Catalan & Spanish) for ProjectG — presenting feature
 - **Full product ownership** — I handle everything: product design, database architecture, frontend, backend, deployment, and iteration based on real user feedback.
 - **Production-grade from day one** — Multi-tenant security, timezone-aware logic, strict TypeScript, and UI designed for harsh physical environments.
 - **Domain-driven development** — I build software that solves real operational problems for real businesses, not toy projects.
+  
 
 ## Tech I Work With
 

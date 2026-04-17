@@ -2,7 +2,7 @@
 
 I'm a software developer building real-world products for the food industry. I design, build, and ship full-stack applications from idea to production.
 
-## ProjectG — Kitchen Production Management SaaS
+## Kitchen Production Management SaaS
 
 [**github.com/gteixi/projectg**](https://github.com/gteixi/projectg)
 
@@ -27,7 +27,9 @@ A SaaS platform that helps professional kitchens track daily stock, log producti
 
 ---
 
-### Prep Pal Landing — [github.com/gteixi/preppal-web](https://github.com/gteixi/preppal-web)
+### Landing Page
+
+[**github.com/gteixi/preppal-web**](https://github.com/gteixi/preppal-web)
 
 Bilingual marketing site (Catalan & Spanish) for ProjectG — presenting features, pricing, and a contact form for restaurant owners.
 

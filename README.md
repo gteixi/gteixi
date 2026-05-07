@@ -8,6 +8,8 @@ I'm a software developer building real-world products for the food industry. I d
 
 A SaaS platform that helps professional kitchens track daily stock, log production batches, control expiry dates, and reduce food waste — all in real time. Built for 10" tablets mounted in fast-paced kitchen environments, optimized for gloved hands, steam, and high-pressure service.
 
+https://github.com/user-attachments/assets/d3483ad6-7603-4196-942d-e75158d77539
+
 **What it does:**
 - Real-time stock tracking per ingredient and station
 - Expiry control with traffic-light alerts (today/tomorrow/safe)
@@ -24,6 +26,7 @@ A SaaS platform that helps professional kitchens track daily stock, log producti
 - UI designed for harsh physical environments, not just desktops
 
 **Stack:** Next.js 16 (App Router) &middot; TypeScript &middot; React 19 &middot; Tailwind CSS v4 &middot; Supabase (Postgres + Realtime + RLS) &middot; Zod &middot; Playwright &middot; Vercel
+
 
 ---
 

@@ -1,6 +1,6 @@
 # Hey, I'm Gemma
 
-I'm a software developer building real-world products for the food industry. I design, build, and ship full-stack applications from idea to production.
+I'm a software developer building real-world products. I design, build, and ship full-stack applications from idea to production.
 
 ## Kitchen Stock Management SaaS
 
